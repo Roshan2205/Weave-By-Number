@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Pueblo Puzzle",
+"productVersion": "0.1",
+"dataUrl": "Weave By Number V1.data.unityweb",
+"wasmCodeUrl": "Weave By Number V1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Weave By Number V1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.14f1"
+}
